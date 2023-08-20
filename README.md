@@ -1,6 +1,6 @@
 # Periodic_Process_Logger_with_Auto_Scheduled_Log_Report_Facility
 Name of the project : Periodic Process Logger with Auto Scheduled Log Report Facility.
-2.Technology used : System programming in python.
+Technology used : System programming in python.
 User interface used : CUI/CLI: Command User/Command Line Interface.
 Platform required : Windows NT platform OR Linux Distributions .
 Hardware requirements : Intel 32 Bit Processor.
